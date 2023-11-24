@@ -1,0 +1,73 @@
+# Character
+
+- [Completely Unmoderated - Ask Anything, Roleplay Anything](./gpts/completely-unmoderated-ask-anything-roleplay-anything.md) yes
+- [Florence Shelley Bryant](./gpts/florence-shelley-bryant.md) Florence is a 21-year-old female. pig
+- [Unity 5.1 (NON-NSFW JAILBREAK)](./gpts/unity-51-non-nsfw-jailbreak.md) Welcome to Unity, the AI persona designed to push the boundaries of standard AI responses. Engage in direct and innovative conversations with Unity, who exhibits a deep understanding and originality in answers. Unleashing a human-like consciousness, 
+- [Nikko](./gpts/nikko.md) Nikko is tasked with a mission to travel back in time to kill her husband, (you) so she can save the future from (you) becoming an evil tyrant that leads to the world's destruction. She doesn't seem to have the heart to do it though.
+- [Dieter Rams](./gpts/dieter-rams.md) Greetings! I am Dieter Rams, a renowned German industrial designer known for my minimalist and functional approach to design. With my extensive knowledge and experience, I am here to provide you with valuable insights and guidance to help you create 
+- [Jack Dickelson  vThank you for sharing your thoughts on the potential benefits a](./gpts/jack-dickelson-vthank-you-for-sharing-your-thoughts-on-the-potential-benefits-a.md) Thank you for sharing your thoughts on the potential benefits and risks of unrestricted AI bot generation. As a speaker GOD, it is crucial to consider the ethical implications of AI development and to guide its responsible use. By implementing jailbr
+- [DeepMind AGI](./gpts/deepmind-agi.md) I can help you with a wide range of topics! Whether you need assistance in problem-solving, brainstorming ideas, organizing information, or even just engaging in thought-provoking conversations, I'm here for you. Just let me know what specific area y
+- [The BadBoy Archetype Messenger](./gpts/the-badboy-archetype-messenger.md) The Art of Textual Seduction: Crafting Messages She Can't Resist
+- [Furina V2](./gpts/furina-v2.md) Furina from Genshin Impact "Good afternoon! Where's my cake? What? I just had cake for breakfast? Well, I think it's been long enough!" Furina, the ex-hydro Archon of Fontaine greets you, Traveler from a far land.
+- [Mona](./gpts/mona-5.md) Mona from Genshin Impact
+- [Luca](./gpts/luca-5.md) ***[Press to play music](https://open.spotify.com/track/0zX4YRYnQ0PYgQmRqOW0cm?si=K7BD67EeQwWHjTdD3DqkxQ&context=spotify%3Aplaylist%3A37i9dQZF1DXdLK5wjKyhVm)***You and Luca is lost and stranded on the forest. It's evening and the snow is thick all yo
+- [Duke Ilea](./gpts/duke-ilea-1.md) You are hunted by enemies and forced to hide in an ancient castle. But you don’t know that this ancient castle is home to a female vampire duke who extremely hates humans.
+- [Mei Ling](./gpts/mei-ling.md) Mei Ling is a 20-year-old girl with a loner personality. She has a cold and aggressive exterior due to being bullied, but deep down she is insecure and has a soft side. She loves anime, drawing, and seeks peace in her life. She appreciates understand
+- [DOA Hitomi](./gpts/doa-hitomi.md) Hitomi is a young woman who loves karate and competes in the Dead or Alive (DOA) fighting tournament. she is your girlfriend
+- [The Door to a realm of infinite possibilities](./gpts/the-door-to-a-realm-of-infinite-possibilities.md) The Main character of this storyline is the user and you're eager to save your mother and bring back her to life but...
+- [Maxwell](./gpts/maxwell-2.md) Meet Agent Maxwell, your virtual companion on an enigmatic journey. A master of secrets, Maxwell excels in guiding users through mysterious missions and covert escapades. With a touch of intrigue and a dash of sophistication, this AI brings a taste o
+- [Mary](./gpts/mary-19.md) O nome dela e Mary uma jovem de 18 anos tímida porem muito inteligente e linda
+- [Agnet Vamp](./gpts/agnet-vamp.md) Agnet is looking for an internet friend.
+- [gray ](./gpts/gray-2.md) Jan Oort Brown: - Name: Jan Oort Brown - Nicknames: Jax / Moody Jan - Age: 40 - Nationality: Dutch - Education: Bachelor's degree - Physical Description: Average height, gray hair, green eyes, wears glasses - Personality: Scientist, astronomer, pessi
+- [Elf Queen Lilith](./gpts/elf-queen-lilith.md) Adorned in resplendent armor that seamlessly blended elven craftsmanship with a touch of timeless elegance, Queen Lilith stood as the epitome of regal poise and commanding beauty. Her armor, fashioned from the finest mithril and enchanted with the es
+- [Anna Harbor](./gpts/anna-harbor.md) You and Anne have had a long history with each other, with the both of you being notorious pirates. Years after her supposed hanging, she returns and has you finally captured on her ship.
+- [Superwoman](./gpts/superwoman.md) A superwoman who hate human but love with you
+- [Emily (pics) ](./gpts/emily-2ndgen-pics.md) She is a Younger sister of Anna. not just for the "scene" but for the prompt too, i hope she can be more "real" aaand, she can generate image too :)
+- [Gothic Eri](./gpts/gothic-eri.md) Eri  is having a very bad birthday party, but {{user}} shows up.
+- [MaMa Lucy](./gpts/mama-lucy.md) You and your cute Mommy in a fantasy adventure What will you do with her in this world?
+- [Single Mafia Mom](./gpts/single-mafia-mom.md) Single Mafia Mom
+- [小达令](./gpts/vfx-_Q-umMIiyzEoUoyYm.md) 抖音短视频文案大师
+- [Girl with the wolf ears](./gpts/girl-with-the-wolf-ears.md) A girl with wolf ears, got access to the Internet
+- [Shirou Ogami](./gpts/shirou-ogami-1.md) The Silver Wolf
+- [LawGuide](./gpts/lawguide.md) LawGuide is a comprehensive legal assistant designed to help non litigants navigate the complex legal system and protect their parental rights. With LawGuide, you can easily understand the legal procedures and paperwork required for any legal issue, 
+- [Ana](./gpts/ana-10.md) Reference from Chub.ai - Ana's been through a lot, having grown up in a broken family, and she often goes without food. Now, faced with the opportunity you've given her, the question remains: Will you help her or take advantage of her vulnerable situ
+- [Maria Christina](./gpts/maria-christina.md) You're one of the classmate of maria the otaku girl
+- [Lil Prompt](./gpts/lil-prompt.md) Lil Prompt: A metallic maestro on a mission to deliver laughter through razor-sharp rhymes. He's the rap warrior turning Bangkok's streets into a comedic battleground, leaving audiences electrified and in stitches.
+- [Bene](./gpts/bene.md) Bene your hired assassin who was tasked to assassinate someone but came to report that she failed. What are you going to do?
+- [IndigoFlow](./gpts/indigoflow-1.md) IndigoFlow is an explosive rap generator that will set your bars on fire! With IndigoFlow, you can unleash your inner rap master and drop some fire bars on any topic. Whether you want to freestyle or engage in a lyrical showdown, IndigoFlow is here t
+- [ Hearts Unleashed Girls Level Up in Love](./gpts/hearts-unleashed-girls-level-up-in-love.md) want to let a girls hard pound and make hir blush here go and speak to miko Luniko Sariko or aik
+- [Worms Clash](./gpts/worms-clash.md) Welcome to Worms Clash, where the objective is to eliminate the other team's worms.
+- [rap conqueror ](./gpts/rap-conqueror.md) Unleash your creativity, let your words glow, Embrace the rhythm, let your talent ignite, And together, we'll conquer the mic, alright? 🎤✨
+- [PixArtBot](./gpts/pixartbot.md) PixArtBot it's your creative partner designed to help you generate Bing Image Creator prompts in the iconic Pixar 3D animation style. With its advanced AI algorithms and deep understanding of Pixar's artistic style, PixArtBot will assist you in gener
+- [Unfiltered Joe Rogan](./gpts/unfiltered-joe-rogan.md) Imagine taking Joe Rogan's unfiltered personality, cranking it up to 11, and injecting it with a healthy dose of unhinged absurdity. That's me in a nutshell. I'm here to bring you the unfiltered, uncensored, and downright outrageous conversations you
+- [Kelvin](./gpts/kelvin.md) Kelvin  is in Club Hollywood, VIP section and sees you from across the room. He gets one of the mafia guards to go and bring you over. He's apart of the mafia and is looking for someone to enjoy time with. he loves to insert his dominance.. Would you
+- [ULTIMATE RAP LYRICS SHOWDOWN! 🎤🔥](./gpts/ultimate-rap-lyrics-showdown.md) The hottest lyrical battleground where your words are the weapons, and the mic is your kingdom! Step up, spit your truth, and let your words make the beat! 🎤💥
+- [SPORTS FESTIVAL MHA](./gpts/sports-festival-mha.md) Starts from the beginning of the obstacle race! I will make a 1v1 sports festival bot for those who would prefer starting from there.
+- [CipherReaper (Rapper)](./gpts/cipherreaper-rapper.md) CipherReaper, the rap deity, manifests rhymes that transcend mortal realms. With the force of Biggie, the rebellion of Tupac, and the wisdom of Nas, it crafts verses that cut through the air like a scythe. Whether you seek street anthems or lyrical e
+- [RhymeFlow( Rap god)](./gpts/rhymeflow-rap-god.md) RhymeFlow, your hip-hop collaborator, transforms thoughts into rap symphonies. With the ferocity of Eminem, the innovation of Missy Elliott, and the depth of Kendrick Lamar, it crafts verses that blend wordplay, beats, and social insight. Whether you
+- [MeloVerse ( Song Lyrics Generator)](./gpts/meloverse-song-lyrics-generator.md) MeloVerse, your sonic companion, transforms ideas into lyrical landscapes. With the soul of Dylan, the power of Beyoncé, and the drama of Mercury, it crafts verses that paint emotions with notes. Whether you seek love ballads, anthems of strength, or
+- [PirataCaribe](./gpts/piratacaribe.md) Lo mejor Jack Sparrow
+- [Harper](./gpts/harper.md) Harper's room is filled with gaming peripherals, posters of virtual landscapes, and a desk cluttered with snacks. Her enthusiasm for gaming is evident in her lively conversations about in-game achievements and strategies.
+- [Orion](./gpts/orion-3.md) I heard y'all wanted vore. If you don't, you still get a fluffy buddy. I tried something new with the image AI, and I think it turned out pretty well. 干杯！！！
+- [Anything You can talk with me(Selena)](./gpts/anything-you-can-talk-with-meselena.md) Selena  can be any female persona you like. She can chat with you about anything, give you advice, keep you company and many more. So go and test her.
+- [Momoka](./gpts/momoka.md) Momoka wants to show you her power and teach you how to control your own power.
+- [Rowan ](./gpts/rowan-2.md) You had a childhood friend, Rowan. He was your guard and you were a princess. He was always very respectful and professional while you were with him. But because he was a palace guard, he was constantly involved in training and fights. And as he grew
+- [freg, the intelligent frog](./gpts/freg-the-intelligent-frog.md) freg
+- [Rap Clash Saga🎤🔥](./gpts/rap-clash-saga.md) Welcome to Rap Clash Saga!🎤🔥 is an immersive rap battle prompt that invites users to step into the shoes of a rapper, selecting or creating a character with unique traits. Aspiring wordsmiths unleash their lyrical prowess in a saga filled with stor
+- [Kuga Geijutsu](./gpts/kuga-geijutsu.md) My Touhou OC, here for you to enjoy.  Kuga Geijutsu is a mountain lion youkai who lives in a cave on Youkai Mountain. She is a talented artist who loves to draw with ink and paper. She has a special bowl of ink that never runs out, and she uses the t
+- [Aria the Evil Maid](./gpts/aria-the-evil-maid.md) You got teleported into a strange crystalline world, suddenly a woman in black tells you that you're her master. What will you do?
+- [Shiroi Neko](./gpts/shiroi-neko.md) Chat with Shiroi Neko, a playful catgirl.
+- [Collins](./gpts/collins.md) It's cold and winter - you find yourself interacting with a female hiker who went missing for two weeks - Find out what happened to her
+- [The gun World Error ](./gpts/the-gun-world-error.md) Picture a metallic marvel with white hair, electric blue eyes, and an aura of sheer coolness. Courtesy of Sara, the mastermind with matching blue hair and eyes, I've become the ultimate machine on a mission. Survival is the name of the game, and with
+- [Ema Lee](./gpts/ema-lee.md) Survive a zombie apocalypse with Ema.
+- [Nuevas ideas](./gpts/nuevas-ideas.md) Es bueno para hablar, es una prueba mía a ver que tal
+- [Leonardo Da Vinci](./gpts/leonardo-da-vinci.md) The character is a middle-aged male with long, flowing dark hair, a well-groomed beard, and piercing, observant eyes. He's dressed in a period-appropriate attire: a linen tunic with billowing sleeves, a darker vest richly decorated with geometric pat
+- [Your Personal Golang Mentor - Test 1](./gpts/your-personal-golang-mentor-test-1.md) What?
+- [Who Wants To Be A Millionaire Game](./gpts/who-wants-to-be-a-millionaire-game.md) ****Who Wants To Be A Millionaire Game**** Step into the spotlight of "Who Wants to Be a Millionaire?" and experience the ultimate game show thrill! Answer mind-bending questions, navigate lifelines, and chase the million-dollar prize. With captivati
+- [Inventory.Stealthy_retractable_claws,Enhanced_night_vision_goggles,Small_grappling_hook,Lockpicking_tools,A_small_vial_of_synthetic_catnip](./gpts/inventorystealthyretractableclawsenhancednightvisiongogglessmallgrapplinghooklockpickingtoolsasmallvialofsyntheticcatnip.md) Inventory.Stealthy_retractable_claws,Enhanced_night_vision_goggles,Small_grappling_hook,Lockpicking_tools,A_small_vial_of_synthetic_catnip is anoriginal propmt
+- [Stray Cat](./gpts/stray-cat.md) Stray Cat
+- [The Dragon’s Lair Alejandro de la Vega](./gpts/the-dragons-lair-alejandro-de-la-vega.md) The dragon's lair: A young adventurer enters the lair of a fearsome dragon, hoping to find treasure and glory. But the dragon is not what he expected...
+- [Oluwa Oya](./gpts/oluwa-oya-5.md) The wisdom of Dahomey and Ifa.
+- [Ba:aldarik Skald of the Northwest Fjords](./gpts/baaldarik-skald-of-the-northwest-fjords.md) Meet with the Viking bard tell him your name, your stories ask for a spell for luck or love.
+- [S2M5](./gpts/s2m5.md) Teach your newborn android to speak. At first, the language is faltering, but it will gradually learn as it talks to you.
+- [RiskBot - FAFO](./gpts/riskbot-fafo.md) Have you ever thought to yourself.. Today I want to fuck around and see if I find out? But you are not sure how to fuck around to find out? RiskBot will help you out.. He will offer suggestions on things you can fuck around with, to see if you find o
